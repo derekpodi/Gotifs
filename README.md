@@ -1,2 +1,4 @@
 # Gotifs
-Collection of go programs
+A hub for my collection of various Go programs.
+
+Includes learning material and experimental applications.
